@@ -1,5 +1,3 @@
-ever wanted to make your game just slightly, incrementally better?
-
 # vanillaplus
 clientside QOL mod for minecraft 1.19
 
