@@ -10,4 +10,4 @@ clientside QOL mod for minecraft 1.19
 - import custom cosmetics 4 free (hats ears etc) (can you tell i don't want to pay for lunar shit)
 
 ## that's it
-- go crazy
+go crazy
